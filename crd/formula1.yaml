@@ -1,0 +1,10 @@
+apiVersion: "stable.pirix.io/v1"
+kind: F1
+metadata:
+  name: f1-car
+spec:
+  powerRanking: 1
+  engineClass: v10
+  engineProvider: FiA
+  chassisProviderNumber: 10
+  image: formula1
